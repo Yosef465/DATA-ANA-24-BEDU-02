@@ -1,4 +1,4 @@
-# BEDU DATA 01
+# BEDU DATA 02
 
 Samples and challenges about data analysis course.
 
